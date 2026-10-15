@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Please cite this repository and the original papers when using the reproduction study."
-title: "SLAM Learning Updated: dynamic-environment robust localization and self-recovery"
+title: "SLAM Learning: spatial correspondence and map updates"
 type: software
 authors:
   - name: "p20030920p"
@@ -10,12 +10,10 @@ authors:
 repository-code: "https://github.com/p20030920p/slam_learning_updated"
 url: "https://github.com/p20030920p/slam_learning_updated"
 license: MIT
-version: "0.3.0"
-date-released: "2026-10-14"
+version: "0.2.0"
+date-released: "2026-10-08"
 keywords:
   - SLAM
   - dynamic mapping
-  - dynamic environments
-  - robust localization
-  - localization self-recovery
+  - semantic mapping
   - reproducibility
